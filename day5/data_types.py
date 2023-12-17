@@ -74,7 +74,6 @@ import sys
 # print("tupple size:",sys.getsizeof(my_tupple))
 # print(my_tupple[0])
 # print(my_tupple[0])
-
 a = range(1,5,1)
 for items in a:
     print(items)
